@@ -1,0 +1,41 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+  }
+  #education {
+    background-color: #3a3d46;
+  }
+  #contact {
+    background-color: #3a3d46;
+  }
+  #projects {
+    background-color: #e2edff;
+  }
+  section {
+    padding-top: 9rem;
+  }
+  table {
+    text-align: left;
+  }
+  tr:hover {
+    background-color: white;
+  }
+  .card {
+    width: 270px;
+  }
+  #more1 {
+    display: none;
+  }
+  #more2 {
+    display: none;
+  }
+  #more3 {
+    display: none;
+  }
+  #more4 {
+    display: none;
+  }
+  footer {
+    background-color: #3a3d46;
+  }
+  
